@@ -1,0 +1,35 @@
+.profile{
+    height: 450px;
+    width: 40%;
+    border: 1px solid gray;
+    margin: 20px auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    border-radius: 12px;
+    padding: 10px;
+}
+.text-img{
+    margin: 10px 15px;
+}
+h1{
+    font-family: san;
+}
+
+.text-img p{
+    font-size: 20px;
+    color: gray;
+}
+.text-img img{
+    height: 10%;
+    width: 20%;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.btn{
+    height: 40px;
+    border-top: 1px solid gray;
+    color: rgb(55, 146, 192);
+    margin-top: 90px;
+    font-weight: bold;
+    font-size: 21px;
+}
